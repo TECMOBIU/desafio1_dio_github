@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" >
+  <img src="https://raw.githubusercontent.com/TECMOBIU/desafio1_dio_github/102ddea008cf842ba412ae676dbfed61301057f6/Logo%201.1.JPG" >
 </p>
 
 # André Luis dos santos
