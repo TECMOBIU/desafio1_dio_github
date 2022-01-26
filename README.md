@@ -3,7 +3,7 @@
 </p>
 
 # André Luis dos santos
-<sub>*Professor e coordenador de Pós Graduação</sub>
+<sub>Meu primeiro desafio Localiza/DIO GitHub</sub>
 
 Mestre em Engenharia Ambiental e Urbana – UFBA sob orientação de Juan Pedro Moreno Delgado;
 Urbanista - UNEB sob orientação de Liliane Mariano; Especialista em Geotecnologia Soluções de
@@ -23,8 +23,7 @@ Gestão e Planejamento Pedagógico da EaD, TIC na EaD, Produção de Áudio e V�
 Inclusiva no Processo de Alfabetização, Didática no Ensino Superior, Normas ABNT aplicadas a Trabalhos
 Acadêmicos
 
-# Repositório do primeiro desafio Localiza_DIO sobre GitHub
-Meu primeiro desafio DIO GitHub
+
 
 **Links:**
 * [Blog](https://tecmobiu.blogspot.com/)
