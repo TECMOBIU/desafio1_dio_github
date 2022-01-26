@@ -11,4 +11,4 @@ Mestre em Engenharia Ambiental Urbana; Urbanista; Especialista em Geotecnologias
 * [Blog](https://tecmobiu.blogspot.com/)
 * [LinkedIn](https://bit.ly/3rYwE8q)
 * [Medium](https://medium.com/@santosal.urb)
-* [Lates](http://lattes.cnpq.br/8963641063626194)
+* [Lattes](http://lattes.cnpq.br/8963641063626194)
