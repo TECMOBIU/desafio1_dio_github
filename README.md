@@ -6,7 +6,7 @@
 <sub>Meu primeiro desafio Localiza/DIO GitHub</sub>
 
 # Breve Biografia
-Mestre em Engenharia Ambiental Urbana; Urbanista; Especialista em Geotecnologias, Gestão Pública; Graduado em Transporte, Ciência da Computação e Jogos Digitais
+Mestre em Engenharia Ambiental Urbana; Urbanista; Especialista em Geotecnologias e**** Gestão Pública; Graduado em Transporte Terrestre, Ciência da Computação e Jogos Digitais
 
 **Links:**
 * [Blog](https://tecmobiu.blogspot.com/)
